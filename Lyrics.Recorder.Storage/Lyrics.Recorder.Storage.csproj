@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lyrics.Recorder.Core\Lyrics.Recorder.Core.csproj" />
+    <ProjectReference Include="..\Lyrics.Recorder.MongoFramework\Lyrics.Recorder.MongoFramework.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\bin\Release\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\bin\Release\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\bin\Release\netstandard2.0\Contacts.Recorder.MongoFramework.deps.json
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\bin\Release\netstandard2.0\Contacts.Recorder.MongoFramework.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\bin\Release\netstandard2.0\Contacts.Recorder.MongoFramework.pdb
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\bin\Release\netstandard2.0\Contacts.Recorder.Core.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\bin\Release\netstandard2.0\Contacts.Recorder.Core.pdb
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\obj\Release\netstandard2.0\Contacts.Recorder.MongoFramework.csprojAssemblyReference.cache
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\obj\Release\netstandard2.0\Contacts.Recorder.MongoFramework.csproj.CoreCompileInputs.cache
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\obj\Release\netstandard2.0\Contacts.Recorder.MongoFramework.AssemblyInfoInputs.cache
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\obj\Release\netstandard2.0\Contacts.Recorder.MongoFramework.AssemblyInfo.cs
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\obj\Release\netstandard2.0\Contacts.Recorder.MongoFramework.csproj.CopyComplete
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\obj\Release\netstandard2.0\Contacts.Recorder.MongoFramework.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.MongoFramework\obj\Release\netstandard2.0\Contacts.Recorder.MongoFramework.pdb

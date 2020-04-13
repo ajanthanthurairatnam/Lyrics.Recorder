@@ -1,0 +1,15 @@
+﻿@model Lyric.Recorder.API.Models.LyricsViewModel
+@{
+    var isLoggedIn = Context.Request.Cookies.ContainsKey(".AspNetCore.Identity.Application");
+}
+    <body>
+        <h1>Lyricss</h1>
+        <div id="fillthis"></div>
+        <script type="text/javascript">
+            window.onload = function () {
+                myLibrary.BindDynamicComponent(
+                    myLibrary.Lyrics({ }),
+                    document.getElementById("fillthis"));
+            };
+        </script>
+    </body>

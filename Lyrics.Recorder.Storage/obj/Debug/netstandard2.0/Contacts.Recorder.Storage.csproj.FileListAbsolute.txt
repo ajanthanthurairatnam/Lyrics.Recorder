@@ -1,0 +1,16 @@
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\bin\Debug\netstandard2.0\Contacts.Recorder.Storage.deps.json
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\bin\Debug\netstandard2.0\Contacts.Recorder.Storage.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\bin\Debug\netstandard2.0\Contacts.Recorder.Storage.pdb
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\bin\Debug\netstandard2.0\Contacts.Recorder.Core.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\bin\Debug\netstandard2.0\Contacts.Recorder.Core.pdb
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\obj\Debug\netstandard2.0\Contacts.Recorder.Storage.csprojAssemblyReference.cache
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\obj\Debug\netstandard2.0\Contacts.Recorder.Storage.csproj.CoreCompileInputs.cache
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\obj\Debug\netstandard2.0\Contacts.Recorder.Storage.AssemblyInfoInputs.cache
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\obj\Debug\netstandard2.0\Contacts.Recorder.Storage.AssemblyInfo.cs
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\obj\Debug\netstandard2.0\Contacts.Recorder.Storage.csproj.CopyComplete
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\obj\Debug\netstandard2.0\Contacts.Recorder.Storage.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\obj\Debug\netstandard2.0\Contacts.Recorder.Storage.pdb
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\bin\Debug\netstandard2.0\Contacts.Recorder.MongoFramework.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Storage\bin\Debug\netstandard2.0\Contacts.Recorder.MongoFramework.pdb

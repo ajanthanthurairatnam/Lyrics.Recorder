@@ -1,0 +1,9 @@
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Core\bin\Release\netstandard2.0\Contacts.Recorder.Core.deps.json
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Core\bin\Release\netstandard2.0\Contacts.Recorder.Core.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Core\bin\Release\netstandard2.0\Contacts.Recorder.Core.pdb
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Core\obj\Release\netstandard2.0\Contacts.Recorder.Core.csprojAssemblyReference.cache
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Core\obj\Release\netstandard2.0\Contacts.Recorder.Core.csproj.CoreCompileInputs.cache
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Core\obj\Release\netstandard2.0\Contacts.Recorder.Core.AssemblyInfoInputs.cache
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Core\obj\Release\netstandard2.0\Contacts.Recorder.Core.AssemblyInfo.cs
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Core\obj\Release\netstandard2.0\Contacts.Recorder.Core.dll
+C:\Users\ajant\source\repos\Contacts.Recorder\Contacts.Recorder.Core\obj\Release\netstandard2.0\Contacts.Recorder.Core.pdb

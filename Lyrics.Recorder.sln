@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lyrics.Recorder.API", "Lyrics.Recorder\Lyrics.Recorder.API.csproj", "{696028F1-93FC-42E2-B3C9-0BB7B7DB8684}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{C4E1BD33-BEEC-4B3D-8175-CC39F4168310}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{4FC83A89-9EA2-4AA5-9671-891E0C1A9DEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lyrics.Recorder.Storage", "Lyrics.Recorder.Storage\Lyrics.Recorder.Storage.csproj", "{D6530A2F-CED9-48B8-8A88-505CA2E754ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lyrics.Recorder.MongoFramework", "Lyrics.Recorder.MongoFramework\Lyrics.Recorder.MongoFramework.csproj", "{AA98303C-2BEF-420E-A399-A3DE10300BA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lyrics.Recorder.Core", "Lyrics.Recorder.Core\Lyrics.Recorder.Core.csproj", "{C4F18C82-1D9D-4A5D-9199-3992B3D5E1F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696028F1-93FC-42E2-B3C9-0BB7B7DB8684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696028F1-93FC-42E2-B3C9-0BB7B7DB8684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696028F1-93FC-42E2-B3C9-0BB7B7DB8684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696028F1-93FC-42E2-B3C9-0BB7B7DB8684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6530A2F-CED9-48B8-8A88-505CA2E754ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6530A2F-CED9-48B8-8A88-505CA2E754ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6530A2F-CED9-48B8-8A88-505CA2E754ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6530A2F-CED9-48B8-8A88-505CA2E754ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA98303C-2BEF-420E-A399-A3DE10300BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA98303C-2BEF-420E-A399-A3DE10300BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA98303C-2BEF-420E-A399-A3DE10300BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA98303C-2BEF-420E-A399-A3DE10300BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F18C82-1D9D-4A5D-9199-3992B3D5E1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F18C82-1D9D-4A5D-9199-3992B3D5E1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F18C82-1D9D-4A5D-9199-3992B3D5E1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F18C82-1D9D-4A5D-9199-3992B3D5E1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{696028F1-93FC-42E2-B3C9-0BB7B7DB8684} = {4FC83A89-9EA2-4AA5-9671-891E0C1A9DEF}
+		{D6530A2F-CED9-48B8-8A88-505CA2E754ED} = {4FC83A89-9EA2-4AA5-9671-891E0C1A9DEF}
+		{AA98303C-2BEF-420E-A399-A3DE10300BA4} = {C4E1BD33-BEEC-4B3D-8175-CC39F4168310}
+		{C4F18C82-1D9D-4A5D-9199-3992B3D5E1F0} = {4FC83A89-9EA2-4AA5-9671-891E0C1A9DEF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D983FB84-5BE2-45D6-AEEB-B5AC40CA8523}
+	EndGlobalSection
+EndGlobal
